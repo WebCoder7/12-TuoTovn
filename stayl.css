@@ -1,0 +1,407 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+nav{ 
+    
+    height: 51px;
+    left: 0px;
+    top: 0px;
+    background: rgba(33, 33, 33, 0.8);
+}
+
+.blade{
+    padding-top: 7px;
+    margin-top: 5px;
+    margin-right: 40px;
+    color: white;
+}
+
+.srrs{
+    margin-top: 5px;
+    margin-left: 260px;
+}
+
+.lilist{
+    margin-top: -30px;
+    display: flex;
+    justify-content: end;
+}
+
+.fa-solid{
+    margin-top: 10px;
+    padding-left: 20px;
+    color: white;
+}
+
+
+
+section{
+    width: 1393px;
+    height: 690px;
+    background-repeat: no-repeat;
+}
+
+.fix{
+    margin-left: 189px;
+    margin-top: -470px;
+    font-weight: 400;
+    font-size: 41px;
+    color: #FFFFFF;
+}
+
+.melon{
+    margin-left: 189px;
+    font-weight: 400;
+    font-size: 19px;
+    color: #FFFFFF;
+}
+
+.btnn{
+    padding: 12px 34px; 
+    margin-left: 190px;
+    border-radius: 27px;
+    background-color: red;
+}
+
+.last{
+    margin-left: 30px;
+    margin-bottom: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.min{
+    font-weight: 500;
+    font-size: 17px;
+    color: #FFFFFF;
+    opacity: 0.4;
+}
+
+.divn{
+    margin-left: 100px;
+    margin-bottom: 60px;
+    display: flex;
+}
+
+.minn{
+    font-weight: 500;
+    font-size: 17px;
+    color: #FF0000;
+}
+
+.cardd{
+    padding-top: -150px;
+    margin-left: 122px;
+    padding-bottom: 30px;
+    margin-right: -100px;
+   color: white;
+}
+
+.ligolin1{
+    padding-top: -40px;
+}
+
+.pppp{
+
+    margin-left: 120px;
+    margin-top: -40px;
+    color: red;
+}
+
+.sasasa{
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.wqwqwq{
+    margin-bottom: 130px;
+    font-weight: 600;
+    font-size: 14px;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+.kkk{
+    font-weight: 600;
+    font-size: 14px;
+    color: #FFFFFF;
+    opacity: 0.5;
+    
+}
+
+.rrr{
+    font-weight: 600;
+    font-size: 14px;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+
+.pervom{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-weight: 500;
+    font-size: 27px;
+    color: #FFFFFF;
+}
+
+.inptt{
+    margin-left: 170px;
+    margin-top: 5px;
+    margin-bottom: 50px;
+    padding: 11px 22px;
+    background: #272727;
+    border-radius: 6px;
+    font-weight: 400;
+    font-size: 15px;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+
+.holoo{
+    margin-left: 140px;
+    margin-top:-41px;
+    font-weight: 600;
+    font-size: 17px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+
+.holo{
+    margin-left: -90px;
+    margin-top: 20px;
+    font-weight: 600;
+    font-size: 17px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+
+.phone{
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.lllll{
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+
+.kkkkk{
+    margin-top: -8px;
+    font-weight: 600;
+    font-size: 14px;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+
+.pppppp{
+    margin-left: 70px;
+    margin-top: -38px;
+    margin-bottom: 120px;
+    font-weight: 600;
+    font-size: 14px;
+    color: #FF3232;
+}
+
+
+.rector36{
+    margin-bottom: 45px;
+}
+
+
+.tuo{
+    font-weight: 500;
+    font-size: 35px;
+    color: #FFFFFF;
+}
+
+
+.kompaniya{
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.krasota{
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+
+.loreame{
+    margin-top: 40px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+
+.noji{
+    margin-top: 40px;
+    font-weight: 600;
+    font-size: 28px;
+    color: #FFFFFF;
+}
+
+
+.imageann{
+    margin-bottom: 130px;
+}
+
+
+.yolo{
+    margin-bottom: 40px;
+    font-weight: 500;
+    font-size: 35px;
+    color: #FFFFFF;
+}
+
+
+.nojim{
+    margin-top: -70px;
+    margin-left: 30px;
+    margin-bottom: 140px;
+    font-weight: 500;
+    font-size: 17px;
+    color: #FFFFFF;
+}
+
+
+.legend{
+    margin-top: -35px;
+    margin-left: 165px;
+    font-weight: 600;
+    font-size: 13px;
+    color: #FFFFFF;
+}
+
+
+.munno{
+    margin-bottom: 70px;
+    font-weight: 400;
+    font-size: 13px;
+    color: #FFFFFF;
+}
+
+
+.katalog{
+    font-weight: 600;
+    font-size: 17px;
+    color: #FFFFFF;
+}
+
+
+.lov{
+    padding-top: 50px;
+    margin-bottom: 15px;
+    font-weight: 600;
+    font-size: 17px;
+    color: #FFFFFF;
+}
+
+.name{
+    font-weight: 500;
+    font-size: 14px;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+
+.dlya{
+    font-weight: 500;
+    font-size: 14px;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+
+.mrss{
+    margin-top: 50px;
+}
+
+
+.mee{
+    margin-top: 30px;
+    font-weight: 600;
+    font-size: 17px;
+    color: #FFFFFF;
+}
+
+
+.icon{
+    margin-left: 140px;
+    margin-top: -43px;
+}
+
+
+.kontakt{
+    padding-top: 50px;
+    font-weight: 600;
+    font-size: 17px;
+    color: #FFFFFF;
+}
+
+
+.number{
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+
+.tuotuo{
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+
+.sakson{
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+
+.Rossiya{
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+
+footer{
+    background: #272727;
+}
+
+.faol{
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+
+.take{
+    color: white;
+}
+
+
+
+
